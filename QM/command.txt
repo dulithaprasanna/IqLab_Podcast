@@ -1,0 +1,4 @@
+cd C:\Users\Public\gamess-64
+rungms.bat D:\IQLab\QM\N2_6-311Gd.inp 2021.R2.P2.intel.msucc 2 D:\IQLab\QM\N2_6-311Gd.log
+
+#you need to replace correct file path for your input and output files
